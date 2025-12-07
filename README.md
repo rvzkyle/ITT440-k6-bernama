@@ -139,7 +139,7 @@ From a user’s point of view, under this kind of everyday load the site feels *
 - `status not 5xx` – ensures the server does not return HTTP 5xx errors.
 
 #### 4.2 Results (k6 summary, approximate)
-![K6 Stress test result](results/stress_test_result.png)
+![k6 Stress test result](results/stress_test_results.png)
 
 - **Iterations:** 6,722  
 - **HTTP requests:** 13,444 (around 18.7 req/s)  
