@@ -87,6 +87,7 @@ Each VU:
 - Sleeps for **1 second** between requests.
 
 #### 3.2 Results (k6 summary, approximate)
+![K6 Load test result](results/load_test_result.png)
 
 - **Iterations:** 2,544  
 - **HTTP requests:** 5,088 (around 9.3 req/s)  
@@ -138,6 +139,7 @@ From a user’s point of view, under this kind of everyday load the site feels *
 - `status not 5xx` – ensures the server does not return HTTP 5xx errors.
 
 #### 4.2 Results (k6 summary, approximate)
+![K6 Stress test result](results/stress_test_result.png)
 
 - **Iterations:** 6,722  
 - **HTTP requests:** 13,444 (around 18.7 req/s)  
@@ -192,6 +194,7 @@ This suggests that **Bernama.com** can comfortably handle significantly more loa
 - `status is 200`
 
 #### 5.2 Results (k6 summary, approximate)
+![K6 Spike test result](results/spike_test_result.png)
 
 - **Iterations:** 1,229  
 - **HTTP requests:** 2,459 (around 9.8 req/s)  
