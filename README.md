@@ -286,7 +286,7 @@ As part of this assignment, I also recorded a short video where I:
 - Summarise the findings and recommendations.
 
 👉 **YouTube link:**  
-*(replace this with your actual video once uploaded)*
+*[youtube Video](https://youtu.be/OovOlHNii9o)*
 
 ---
 
