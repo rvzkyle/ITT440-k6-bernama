@@ -285,8 +285,7 @@ As part of this assignment, I also recorded a short video where I:
 - Walk through the k6 output and highlight the key metrics.  
 - Summarise the findings and recommendations.
 
-👉 **YouTube link:**  
-[Youtube Video](https://youtu.be/OovOlHNii9o)
+👉 **YouTube link:**  [Performance Testing with k6: Load, Stress, and Spike Scenarios](https://youtu.be/OovOlHNii9o)
 
 ---
 
